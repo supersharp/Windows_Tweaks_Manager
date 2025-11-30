@@ -1,4 +1,4 @@
-# Windows Master Tweak Utility
+# Windows Tweaks Manager
 
 ## 📖 Description
 This is an all-in-one utility designed to optimise, debloat, and enhance your Windows experience. It automates complex tasks like editing the registry, removing unwanted apps, and adding useful shortcuts to streamline your workflow.
