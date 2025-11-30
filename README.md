@@ -7,7 +7,7 @@ This is an all-in-one utility designed to optimize, debloat, and enhance your Wi
 
 
 ## 🚀 How to Use
-1.  **Download:** Ensure the `Resources` folder is located in the same directory as the script.
+1.  **Download:** Ensure the `Resources` folder is located in the same directory as the script. I can't upload the .lnk files to the repository; they are included in the release zip file
 2.  **Run:** Right-click `Run.bat` and select **Run as Administrator**.
 3.  **Select:** Follow the on-screen menu to apply or revert tweaks.
 
