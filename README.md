@@ -30,6 +30,7 @@ This is the main optimisation option. It performs the following:
 #### 🖥️ UI Improvements
 * **Classic Menu:** Restores the classic "Windows 10 style" right-click menu (removes "Show more options").
 * **Explorer Cleanup:** Hides "Home" and "Gallery" from File Explorer.
+* **Windows Settings Cleanup:** Removes "Home" from Windows 11 settings
 * **Menu Declutter:** Removes "Create new shortcut", "Troubleshoot Compatibility", "Restore previous version", "Pin to Quick Access", and "Add to Favorites".
 
 #### ⚡ Useful Additions
