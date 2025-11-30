@@ -35,7 +35,7 @@ This is the main optimisation option. It performs the following:
 #### ⚡ Useful Additions
 * **Take Ownership:** Adds a context menu option to help delete stubborn files or folders.
 
-  <img width="195" height="500" alt="image" src="https://github.com/user-attachments/assets/b0b2b11b-e68a-439c-a2a2-94c5999049dc" />
+  <img width="208" height="500" alt="image" src="https://github.com/user-attachments/assets/baa8492c-d2e9-4520-b124-58034a7808cc" />
 
 * **Shortcuts:** Creates shortcuts for Windows Update, Microsoft Store, and Realtek Audio in your Start Menu.
 * **Audio Optimisation:** Configures a startup task for **Low Audio Latency** (improves sound response).
